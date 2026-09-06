@@ -78,8 +78,11 @@
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=LambdaJoker&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-light-mode-only" />
-<img src="https://streak-stats.demolab.com?user=LambdaJoker&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-dark-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LambdaJoker&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=LambdaJoker&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=LambdaJoker&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+</picture>
 </div>
 
 ---
@@ -95,8 +98,11 @@
 ## 🐍 我的贡献贪吃蛇
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/github-snake.svg#gh-light-mode-only" alt="contribution snake" />
-<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/github-snake-dark.svg#gh-dark-mode-only" alt="contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/github-snake.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/github-snake.svg" alt="contribution snake" />
+</picture>
 </div>
 
 ---
