@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="262" viewBox="0 0 620 262" role="img" aria-label="技能熟练度">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6e40c9"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0969da"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="620" height="262" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="28" y="32" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="13" font-weight="600" fill="#8b949e" letter-spacing="1.5">SKILL BAR</text>
+  <line x1="28" y1="44" x2="592" y2="44" stroke="#21262d" stroke-width="1"/>
+
+  <g font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#c9d1d9">
+    <text x="28" y="72" dominant-baseline="middle">Go</text>
+    <text x="28" y="106" dominant-baseline="middle">Python</text>
+    <text x="28" y="140" dominant-baseline="middle">Java</text>
+    <text x="28" y="174" dominant-baseline="middle">JavaScript</text>
+    <text x="28" y="208" dominant-baseline="middle">AI / Agent</text>
+    <text x="28" y="242" dominant-baseline="middle">Docker &amp; Infra</text>
+  </g>
+
+  <g>
+    <rect x="130" y="67" width="380" height="10" rx="5" fill="#21262d"/>
+    <rect x="130" y="67" width="323" height="10" rx="5" fill="url(#bar)"/>
+
+    <rect x="130" y="101" width="380" height="10" rx="5" fill="#21262d"/>
+    <rect x="130" y="101" width="312" height="10" rx="5" fill="url(#bar)"/>
+
+    <rect x="130" y="135" width="380" height="10" rx="5" fill="#21262d"/>
+    <rect x="130" y="135" width="274" height="10" rx="5" fill="url(#bar)"/>
+
+    <rect x="130" y="169" width="380" height="10" rx="5" fill="#21262d"/>
+    <rect x="130" y="169" width="258" height="10" rx="5" fill="url(#bar)"/>
+
+    <rect x="130" y="203" width="380" height="10" rx="5" fill="#21262d"/>
+    <rect x="130" y="203" width="296" height="10" rx="5" fill="url(#bar)"/>
+
+    <rect x="130" y="237" width="380" height="10" rx="5" fill="#21262d"/>
+    <rect x="130" y="237" width="228" height="10" rx="5" fill="url(#bar2)"/>
+  </g>
+
+  <g font-family="'Segoe UI',sans-serif" font-size="12" fill="#8b949e" text-anchor="end">
+    <text x="592" y="72" dominant-baseline="middle">85%</text>
+    <text x="592" y="106" dominant-baseline="middle">82%</text>
+    <text x="592" y="140" dominant-baseline="middle">72%</text>
+    <text x="592" y="174" dominant-baseline="middle">68%</text>
+    <text x="592" y="208" dominant-baseline="middle">78%</text>
+    <text x="592" y="242" dominant-baseline="middle">60%</text>
+  </g>
+</svg>

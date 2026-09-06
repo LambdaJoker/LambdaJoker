@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="LambdaJoker banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#141a2e"/>
+      <stop offset="100%" stop-color="#2a1b3d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="18%" r="62%">
+      <stop offset="0%" stop-color="#7c5cff" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#b9a6ff"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c5cff"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <style>
+      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: 730px 105px; }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.25; transform: scale(1); }
+        50%      { opacity: 0.7;  transform: scale(1.35); }
+      }
+      .dash { stroke-dasharray: 5 7; animation: flow 3s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -24; } }
+    </style>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)"/>
+  <rect width="900" height="220" fill="url(#grid)"/>
+  <circle cx="700" cy="55" r="200" fill="url(#glow)"/>
+
+  <g stroke="#8b7cff" stroke-opacity="0.35" stroke-width="1.2" fill="none">
+    <path class="dash" d="M730 105 L 640 78"/>
+    <path class="dash" d="M730 105 L 812 62"/>
+    <path class="dash" d="M730 105 L 692 168"/>
+    <path class="dash" d="M730 105 L 806 158"/>
+    <path class="dash" d="M640 78 L 566 112"/>
+    <path class="dash" d="M812 62 L 868 118"/>
+  </g>
+
+  <g fill="#a58bff">
+    <circle cx="640" cy="78" r="4.5"/>
+    <circle cx="566" cy="112" r="3.5" fill-opacity="0.7"/>
+    <circle cx="812" cy="62" r="4.5"/>
+    <circle cx="868" cy="118" r="3.5" fill-opacity="0.7"/>
+    <circle cx="692" cy="168" r="4"/>
+    <circle cx="806" cy="158" r="4"/>
+  </g>
+
+  <circle class="pulse" cx="730" cy="105" r="16" fill="#7c5cff"/>
+  <circle cx="730" cy="105" r="9" fill="#c4b5fd"/>
+  <circle cx="730" cy="105" r="16" fill="none" stroke="#a58bff" stroke-opacity="0.5" stroke-width="1"/>
+
+  <text x="60" y="103" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="46" font-weight="700" fill="url(#txt)" letter-spacing="0.5">LambdaJoker</text>
+  <rect x="62" y="120" width="126" height="4" rx="2" fill="url(#line)"/>
+  <text x="60" y="152" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#8b949e">AI Agent 开发者 · Go / Python / Java / JavaScript</text>
+  <text x="60" y="180" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#6e7681">λ building agents that actually run — not just demos</text>
+
+  <rect x="0" y="216" width="900" height="4" fill="url(#line)" fill-opacity="0.7"/>
+</svg>
