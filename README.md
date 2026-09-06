@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/assets/banner-light.svg" />
-  <img alt="LambdaJoker" src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/assets/banner-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/assets/banner-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/assets/banner-light.svg?v=2" />
+  <img alt="RandomGlow" src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/assets/banner-dark.svg?v=2" width="100%" />
 </picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=20&duration=3200&pause=1000&color=7C5CFF&center=true&vCenter=true&width=620&lines=AI%20Agent%20%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20%E5%85%A8%E6%A0%88%E6%8A%98%E8%85%BE%E4%B8%AD%3BGo%20%C2%B7%20Python%20%C2%B7%20Java%20%C2%B7%20JavaScript" alt="typing" />
@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/assets/skills.svg" alt="技能熟练度" width="480" />
+<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/assets/skills.svg?v=2" alt="技能熟练度" width="480" />
 </div>
 
 ---
@@ -72,8 +72,8 @@
 
 <div align="center">
 
-<img width="400" src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/stats.svg" alt="GitHub stats" />
-<img width="400" src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/langs.svg" alt="Top languages" />
+<img width="400" src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/stats.svg?v=2" alt="GitHub stats" />
+<img width="400" src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/langs.svg?v=2" alt="Top languages" />
 
 </div>
 
@@ -87,7 +87,7 @@
 ## 📌 精选项目
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/repos.svg" alt="精选项目" width="518" />
+<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/repos.svg?v=2" alt="精选项目" width="518" />
 </div>
 
 ---
@@ -104,7 +104,7 @@
 ## 🏅 Milestones
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/milestones.svg" alt="milestones" width="480" />
+<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/milestones.svg?v=2" alt="milestones" width="480" />
 </div>
 
 ---
