@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-  <img alt="LambdaJoker" src="assets/banner-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/assets/banner-light.svg" />
+  <img alt="LambdaJoker" src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/assets/banner-dark.svg" width="100%" />
 </picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=20&duration=3200&pause=1000&color=7C5CFF&center=true&vCenter=true&width=620&lines=AI%20Agent%20%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20%E5%85%A8%E6%A0%88%E6%8A%98%E8%85%BE%E4%B8%AD%3BGo%20%C2%B7%20Python%20%C2%B7%20Java%20%C2%B7%20JavaScript" alt="typing" />
@@ -62,29 +62,7 @@
 </div>
 
 <div align="center">
-<img src="assets/skills.svg" alt="技能熟练度" width="480" />
-</div>
-
----
-
-## 📌 精选项目
-
-<div align="center">
-
-<a href="https://github.com/LambdaJoker/DeepSeek-Harness-Core">
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LambdaJoker&repo=DeepSeek-Harness-Core&theme=tokyonight&hide_border=true&show_owner=true" />
-</a>
-<a href="https://github.com/LambdaJoker/rag-web-ui">
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LambdaJoker&repo=rag-web-ui&theme=tokyonight&hide_border=true&show_owner=true" />
-</a>
-
-<a href="https://github.com/LambdaJoker/TripAgent">
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LambdaJoker&repo=TripAgent&theme=tokyonight&hide_border=true&show_owner=true" />
-</a>
-<a href="https://github.com/LambdaJoker/ChefAgent">
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LambdaJoker&repo=ChefAgent&theme=tokyonight&hide_border=true&show_owner=true" />
-</a>
-
+<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/assets/skills.svg" alt="技能熟练度" width="480" />
 </div>
 
 ---
@@ -93,17 +71,22 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=LambdaJoker&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&custom_title=LambdaJoker%27s%20Stats#gh-light-mode-only" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LambdaJoker&layout=compact&langs_count=6&hide_border=true&theme=default&custom_title=Top%20Languages#gh-light-mode-only" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=LambdaJoker&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&custom_title=LambdaJoker%27s%20Stats#gh-dark-mode-only" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LambdaJoker&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&custom_title=Top%20Languages#gh-dark-mode-only" />
+<img width="400" src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/stats.svg" alt="GitHub stats" />
+<img width="400" src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/langs.svg" alt="Top languages" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LambdaJoker&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-light-mode-only" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LambdaJoker&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-dark-mode-only" />
+<img src="https://streak-stats.demolab.com?user=LambdaJoker&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-light-mode-only" />
+<img src="https://streak-stats.demolab.com?user=LambdaJoker&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-dark-mode-only" />
+</div>
+
+---
+
+## 📌 精选项目
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/repos.svg" alt="精选项目" width="518" />
 </div>
 
 ---
@@ -111,17 +94,16 @@
 ## 🐍 我的贡献贪吃蛇
 
 <div align="center">
-<img src="output/github-snake.svg#gh-light-mode-only" alt="contribution snake" />
-<img src="output/github-snake-dark.svg#gh-dark-mode-only" alt="contribution snake" />
+<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/github-snake.svg#gh-light-mode-only" alt="contribution snake" />
+<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/github-snake-dark.svg#gh-dark-mode-only" alt="contribution snake" />
 </div>
 
 ---
 
-## 🏆 成就徽章
+## 🏅 Milestones
 
 <div align="center">
-<img src="https://github-readme-trophy.vercel.app/?username=LambdaJoker&theme=flat&row=1&column=7&margin-w=15&no-frame=true#gh-light-mode-only" />
-<img src="https://github-readme-trophy.vercel.app/?username=LambdaJoker&theme=tokyonight&row=1&column=7&margin-w=15&no-frame=true#gh-dark-mode-only" />
+<img src="https://cdn.jsdelivr.net/gh/LambdaJoker/LambdaJoker@main/output/milestones.svg" alt="milestones" width="480" />
 </div>
 
 ---
@@ -149,5 +131,5 @@
 <br/>
 
 <div align="center">
-<sub>纯 Markdown + GitHub Actions 手搓 · 贪吃蛇每 12 小时自动刷新 🤖</sub>
+<sub>所有统计图表由 GitHub Actions 本地生成，不依赖第三方渲染服务 · 每 12 小时刷新 🤖</sub>
 </div>

@@ -25,7 +25,18 @@ jobs:
             output/github-snake.svg?palette=github-light
             output/github-snake-dark.svg?palette=github-dark
 
-      # 2. 提交回仓库（没有变化就跳过）
+      # 2. 本地生成统计图表（不依赖 vercel.app，国内也能加载）
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 生成统计 SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_stats.py
+
+      # 3. 提交回仓库（没有变化就跳过）
       - name: 提交并推送
         run: |
           git config user.name  "github-actions[bot]"
@@ -34,7 +45,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "内容无变化，跳过提交"
           else
-            git commit -m "chore: update contribution snake [skip ci]"
+            git commit -m "chore: refresh profile stats & snake [skip ci]"
             git push
           fi
 

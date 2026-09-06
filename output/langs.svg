@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="242" viewBox="0 0 480 242" role="img" aria-label="stats"><style>
+.bg{fill:#ffffff;stroke:#d0d7de;stroke-width:1}
+.card{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1}
+.title{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:15px;font-weight:600;fill:#1f2328}
+.label{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:13px;fill:#57606a}
+.value{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;fill:#1f2328}
+.muted{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:11px;fill:#8c959f}
+.repo{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:14px;font-weight:600;fill:#0969da}
+.desc{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:11px;fill:#57606a}
+.meta{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:11px;fill:#57606a}
+@media (prefers-color-scheme:dark){
+.bg{fill:#0d1117;stroke:#30363d}
+.card{fill:#161b22;stroke:#30363d}
+.title{fill:#c9d1d9}.label{fill:#8b949e}.value{fill:#e6edf3}
+.muted{fill:#6e7681}.repo{fill:#58a6ff}.desc{fill:#8b949e}.meta{fill:#8b949e}
+}
+</style><rect class="bg" x="0.5" y="0.5" width="479" height="241" rx="10"/><text class="title" x="24" y="38">Top Languages</text><line x1="24" y1="52" x2="456" y2="52" stroke="#d0d7de" stroke-opacity="0.6"/><text class="label" x="24" y="80">JavaScript</text><rect class="card" x="120" y="70" width="280" height="10" rx="5"/><rect x="120" y="70" width="204" height="10" rx="5" fill="#f1e05a"/><text class="muted" x="456" y="80" text-anchor="end">73.1%</text><text class="label" x="24" y="110">Python</text><rect class="card" x="120" y="100" width="280" height="10" rx="5"/><rect x="120" y="100" width="37" height="10" rx="5" fill="#3572A5"/><text class="muted" x="456" y="110" text-anchor="end">13.4%</text><text class="label" x="24" y="140">Vue</text><rect class="card" x="120" y="130" width="280" height="10" rx="5"/><rect x="120" y="130" width="20" height="10" rx="5" fill="#41b883"/><text class="muted" x="456" y="140" text-anchor="end">7.4%</text><text class="label" x="24" y="170">TypeScript</text><rect class="card" x="120" y="160" width="280" height="10" rx="5"/><rect x="120" y="160" width="12" height="10" rx="5" fill="#2b7489"/><text class="muted" x="456" y="170" text-anchor="end">4.4%</text><text class="label" x="24" y="200">CSS</text><rect class="card" x="120" y="190" width="280" height="10" rx="5"/><rect x="120" y="190" width="4" height="10" rx="5" fill="#563d7c"/><text class="muted" x="456" y="200" text-anchor="end">1.1%</text><text class="label" x="24" y="230">Java</text><rect class="card" x="120" y="220" width="280" height="10" rx="5"/><rect x="120" y="220" width="4" height="10" rx="5" fill="#b07219"/><text class="muted" x="456" y="230" text-anchor="end">0.3%</text></svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180" role="img" aria-label="stats"><style>
+.bg{fill:#ffffff;stroke:#d0d7de;stroke-width:1}
+.card{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1}
+.title{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:15px;font-weight:600;fill:#1f2328}
+.label{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:13px;fill:#57606a}
+.value{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;fill:#1f2328}
+.muted{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:11px;fill:#8c959f}
+.repo{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:14px;font-weight:600;fill:#0969da}
+.desc{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:11px;fill:#57606a}
+.meta{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;font-size:11px;fill:#57606a}
+@media (prefers-color-scheme:dark){
+.bg{fill:#0d1117;stroke:#30363d}
+.card{fill:#161b22;stroke:#30363d}
+.title{fill:#c9d1d9}.label{fill:#8b949e}.value{fill:#e6edf3}
+.muted{fill:#6e7681}.repo{fill:#58a6ff}.desc{fill:#8b949e}.meta{fill:#8b949e}
+}
+</style><rect class="bg" x="0.5" y="0.5" width="479" height="179" rx="10"/><text class="title" x="24" y="38">LambdaJoker's GitHub Stats</text><line x1="24" y1="52" x2="456" y2="52" stroke="#d0d7de" stroke-opacity="0.6"/><circle cx="29" cy="80" r="5" fill="#e3b341"/><text class="label" x="42" y="84">Total Stars:</text><text class="value" x="220" y="84" text-anchor="end">0</text><circle cx="253" cy="80" r="5" fill="#7c5cff"/><text class="label" x="266" y="84">Total Repos:</text><text class="value" x="444" y="84" text-anchor="end">9</text><circle cx="29" cy="114" r="5" fill="#3fb950"/><text class="label" x="42" y="118">Total Forks:</text><text class="value" x="220" y="118" text-anchor="end">0</text><circle cx="253" cy="114" r="5" fill="#a371f7"/><text class="label" x="266" y="118">Followers:</text><text class="value" x="444" y="118" text-anchor="end">1</text><circle cx="29" cy="148" r="5" fill="#58a6ff"/><text class="label" x="42" y="152">Following:</text><text class="value" x="220" y="152" text-anchor="end">3</text><circle cx="253" cy="148" r="5" fill="#f778ba"/><text class="label" x="266" y="152">Public Gists:</text><text class="value" x="444" y="152" text-anchor="end">0</text><text class="muted" x="24" y="168">updated 2026-09-06 · generated locally</text></svg>
