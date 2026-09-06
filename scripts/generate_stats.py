@@ -194,7 +194,10 @@ def build_milestones(user, repos, lang_bytes):
 def main():
     OUT.mkdir(exist_ok=True)
     user = api("/users/" + USER)
-    repos = [r for r in api("/users/%s/repos?per_page=100&type=owner" % USER) if not r["fork"]]
+    repos = [
+        r for r in api("/users/%s/repos?per_page=100&type=owner" % USER)
+        if not r["fork"] and r["name"] != USER
+    ]
 
     stars = sum(r["stargazers_count"] for r in repos)
     forks = sum(r["forks_count"] for r in repos)
