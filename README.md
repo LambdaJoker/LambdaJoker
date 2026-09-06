@@ -11,6 +11,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-LambdaJoker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LambdaJoker)
+[![Website](https://img.shields.io/badge/Website-randomglow.top-7c5cff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://randomglow.top)
 [![Followers](https://img.shields.io/github/followers/LambdaJoker?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=2ea043)](https://github.com/LambdaJoker?tab=followers)
 [![Repos](https://img.shields.io/badge/Repos-8-0969da?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LambdaJoker?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=LambdaJoker&label=Views&color=7c5cff&style=for-the-badge)](https://github.com/LambdaJoker)
@@ -123,6 +124,7 @@
 ## 📫 找到我
 
 <div align="center">
+<a href="https://randomglow.top"><img src="https://img.shields.io/badge/🌐%20访问%20randomglow.top-7c5cff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/LambdaJoker?tab=repositories"><img src="https://img.shields.io/badge/浏览我的仓库-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/LambdaJoker?tab=followers"><img src="https://img.shields.io/badge/关注我-2ea043?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/LambdaJoker/LambdaJoker"><img src="https://img.shields.io/badge/Star%20%E8%BF%99%E4%B8%AA%E4%B8%BB%E9%A1%B5-yellow?style=for-the-badge&logo=github&logoColor=black" /></a>

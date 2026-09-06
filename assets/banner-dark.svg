@@ -57,7 +57,7 @@
   <circle cx="730" cy="105" r="9" fill="#c4b5fd"/>
   <circle cx="730" cy="105" r="16" fill="none" stroke="#a58bff" stroke-opacity="0.5" stroke-width="1"/>
 
-  <text x="60" y="103" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="46" font-weight="700" fill="url(#txt)" letter-spacing="0.5">LambdaJoker</text>
+  <text x="60" y="103" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="46" font-weight="700" fill="url(#txt)" letter-spacing="0.5">RandomGlow</text>
   <rect x="62" y="120" width="126" height="4" rx="2" fill="url(#line)"/>
   <text x="60" y="152" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#8b949e">AI Agent 开发者 · Go / Python / Java / JavaScript</text>
   <text x="60" y="180" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#6e7681">λ building agents that actually run — not just demos</text>

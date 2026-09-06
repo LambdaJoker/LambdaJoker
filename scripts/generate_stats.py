@@ -20,6 +20,7 @@ import urllib.request
 from datetime import datetime, timezone
 
 USER = "LambdaJoker"
+DISPLAY = "RandomGlow"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = ROOT / "output"
 
@@ -103,7 +104,7 @@ def build_stats(user, repos, stars, forks):
         ("Public Gists", user["public_gists"], "#f778ba"),
     ]
     body = ['<rect class="bg" x="0.5" y="0.5" width="479" height="179" rx="10"/>']
-    body.append(f'<text class="title" x="24" y="38">{esc(USER)}\'s GitHub Stats</text>')
+    body.append(f'<text class="title" x="24" y="38">{esc(DISPLAY)}\'s GitHub Stats</text>')
     body.append('<line x1="24" y1="52" x2="456" y2="52" stroke="#d0d7de" stroke-opacity="0.6"/>')
     for i, (label, val, color) in enumerate(rows):
         col, row = i % 2, i // 2
